@@ -1,20 +1,20 @@
 {
-    "title": "Tomorrow Night",
-    "name": "tomorrow-night",
-    "description": "Tomorrow Night theme for Brackets",
-    "version": "1.0",
-    "author": "Ryan Stewart <rstewart@adobe.com> (http://github.com/ryanstewart)",
-    "homepage": "https://github.com/Brackets-Themes/TommorrowNight",
+    "title": "Tomorrow Night Bright",
+    "name": "tomorrow-night-bright",
+    "description": "Tomorrow Night Bright theme for Brackets. Based on the Tomorrow Night theme by Chris Kempson and the port by Ryan Stewart.",
+    "version": "1.0.2",
+    "author": "Gerard Braad <me@gbraad.nl> (http://github.com/gbraad)",
+    "homepage": "https://github.com/gbraad/Brackets-TomorrowNightBright",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Brackets-Themes/TomorrowNight.git"
+        "url": "git@github.com:gbraad/Brackets-TomorrowNightBright.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "tomorrow-night.css",
+        "file": "tomorrow-night-bright.css",
         "dark": true
     },
-    "screenshot": "tomorrow-night-screenshot-css.png"
+    "screenshot": "tomorrow-night-bright-screenshot-html.png"
 }
